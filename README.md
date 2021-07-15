@@ -89,6 +89,12 @@ Redibujando el Circuito:
 
 <img src="Imagenes/circuitoA2.jpeg">
 
+<img src="Imagenes/circuitoB.jpeg">
+
+<img src="Imagenes/circuitoB2.jpeg">
+
+<img src="Imagenes/circuitoB3.jpeg">
+
 ### Resultados
 
 *Porcentaje de error relativo entre los valores teóricos y los experimentales*
