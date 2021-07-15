@@ -27,8 +27,35 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 - Entender las conexiones y forma de uso del protoboard, del multímetro y de los   demás materiales de laboratorio para hacer un uso correcto de ellos, ya que cada uno tiene una forma específica de uso.
 
-
 ### Marco Teórico
+
+El teorema de superposición establece que, el efecto dos o más fuentes de voltaje y/o corriente tienen sobre un punto cualquiera en un circuito lineal, es igual a la suma de cada uno de los efectos de cada fuente tomados por separado, sustituyendo todas las fuentes de voltaje restantes por un corto circuito y las fuentes de corriente por circuitos abiertos.
+
+El teorema de superposición ayuda a encontrar:
+
+- Valores de tensión, en una posición de un circuito, que tiene más de una fuente de tensión y/o corriente.
+
+- Valores de corriente, en un circuito con más de una fuente de tensión y/o voltaje.
+
+Para usar el teorema de superposición para el análisis de circuitos eléctricos, siga los pasos enlistados a continuación:
+
+Teorema de superposición pasos:
+
+1. Identificar las Fuentes independientes
+
+2. Escoge una fuente y “apaga” las demás,cuando apagues una fuente de corriente se tomará en su lugar un corto circuito o un cable abierto.
+
+En cambio, si apagas una fuente de voltaje se tomará en su lugar un cable.
+
+3. Calcula el voltaje y la corriente
+
+Se tiene que hacer cálculos por separado de cada fuente de manera independiente.
+
+4. Repita los dos pasos anteriores para cada fuente independiente
+
+5. Realiza la sumatoria
+
+Vx=∑Vx
 
 ### Explicación del procedimiento
 
