@@ -85,7 +85,9 @@ Vx=∑Vx
 
 Redibujando el Circuito:
 
+<img src="Imagenes/circuitoA.jpeg">
 
+<img src="Imagenes/circuitoA2.jpeg">
 
 ### Resultados
 
