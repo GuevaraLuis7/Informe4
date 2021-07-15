@@ -83,7 +83,7 @@ Vx=∑Vx
 
 *Figura 1.- Circuito para comprobar el Teorema de Superposición.*
 
-Redibujando el Circuito:
+Redibujando el Circuito para:
 
 <img src="Imagenes/circuitoA.jpeg">
 
