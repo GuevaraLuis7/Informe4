@@ -43,15 +43,25 @@ Teorema de superposición pasos:
 
 1. Identificar las Fuentes independientes
 
+<img src="Imagenes/circuito1.jpg">
+
 2. Escoge una fuente y “apaga” las demás,cuando apagues una fuente de corriente se tomará en su lugar un corto circuito o un cable abierto.
 
+<img src="Imagenes/circuito2.jpg">
+
 En cambio, si apagas una fuente de voltaje se tomará en su lugar un cable.
+
+<img src="Imagenes/circuito3.jpg">
 
 3. Calcula el voltaje y la corriente
 
 Se tiene que hacer cálculos por separado de cada fuente de manera independiente.
 
+<img src="Imagenes/circuitoa.jpg">
+
 4. Repita los dos pasos anteriores para cada fuente independiente
+
+<img src="Imagenes/circuitob.jpg">
 
 5. Realiza la sumatoria
 
@@ -60,6 +70,18 @@ Vx=∑Vx
 ### Explicación del procedimiento
 
 *Material y equipo requerido*
+
+<img src="Imagenes/tabla1.jpg">
+
+*Tabla I. Materiales y Equipo*
+
+*Pasos a seguir*
+
+*Procedimiento*
+
+<img src="Imagenes/fig1.jpg">
+
+*Figura 1.- Circuito para comprobar el Teorema de Superposición.*
 
 ### Resultados
 
