@@ -83,6 +83,10 @@ Vx=∑Vx
 
 *Figura 1.- Circuito para comprobar el Teorema de Superposición.*
 
+Redibujando el Circuito:
+
+
+
 ### Resultados
 
 *Porcentaje de error relativo entre los valores teóricos y los experimentales*
