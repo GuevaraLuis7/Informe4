@@ -131,6 +131,18 @@ Redibujando el Circuito para:
 
 ### Anexos
 
+<img src="Imagenes/anexo1.jpg">
+
+*Anexo 1.- Circuito en Tinkercad.*
+
+<img src="Imagenes/anexo2.jpg">
+
+*Anexo 2.- Circuito en Tinkercad.*
+
+<img src="Imagenes/anexo3.jpg">
+
+*Anexo 3.- Circuito en Tinkercad.*
+
 ### Bibliografía
 
 Campomanes, J. G. (1990). Circuitos Eléctricos. Oviedo: Servicio de publicaciones Universidad de Oviedo.
