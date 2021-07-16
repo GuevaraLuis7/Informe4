@@ -135,6 +135,12 @@ Redibujando el Circuito para:
 
 ### Conclusiones
 
+- Se comprendio el Teorema de Superposicion, y con ello se determino los voltajes y corriente en el circuito dado.
+
+-  Se comprendio el uso del teorema de superposicion no solo teoricamente si no que en el uso practico como en la simulacion.
+
+- Este laboratorio resultó de gran ayuda, ya que pudimos armar circuitos con varias resistencias y con 2 fuentes de voltaje y mediante la práctica vamos reforzando los conceptos aprendidos en clases.
+
 ### Anexos
 
 <img src="Imagenes/anexo1.jpg">
