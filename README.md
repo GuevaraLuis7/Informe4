@@ -125,6 +125,12 @@ Redibujando el Circuito para:
 
 *Análisis de los resultados*
 
+- El teorema de superposición permitio evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias del sistema, para luego sumar estos datos y hallar los verdaderos valores proporcionados en el circuito.
+
+- Se pudo determinar que si la fuente no es la ideal está se cortocircuita, pero se deja introducida en el circuito eléctrico.
+
+- Se observo que tanto los resultados analizados como los calculados son iguales sin ningun margen de error.
+
 ### Video
 
 ### Conclusiones
