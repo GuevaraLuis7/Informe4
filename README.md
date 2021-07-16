@@ -133,6 +133,8 @@ Redibujando el Circuito para:
 
 ### Video
 
+https://youtu.be/dQkczZGYL2g
+
 ### Conclusiones
 
 - Se comprendio el Teorema de Superposicion, y con ello se determino los voltajes y corriente en el circuito dado no solo teoricamente si no que en el uso practico como en la simulacion.
