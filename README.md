@@ -128,3 +128,9 @@ Redibujando el Circuito para:
 ### Anexos
 
 ### Bibliografía
+
+Campomanes, J. G. (1990). Circuitos Eléctricos. Oviedo: Servicio de publicaciones Universidad de Oviedo.
+
+Gallego, J. R. (2008). Universidad Tecnológica Pereira. Obtenido de Universidad Tecnolgica Pereira: http://repositorio.utp.edu.co/dspace/bitstream/handle/11059/1042/6213192G166.pdf?sequence=1&isAllowed=y
+
+Pereda, J. A. (Mayo de 2018). Unican. Obtenido de Unican: https://personales.unican.es/peredaj/pdf_apuntes_ac/presentacion-teoremas.pdf
