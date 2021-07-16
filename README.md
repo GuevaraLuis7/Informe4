@@ -113,7 +113,7 @@ Redibujando el Circuito para:
 
 *Tabla II. Medición de voltaje aplicando superposición.*
 
-<img src="Imagenes/tabla3.jpg">
+<img src="Imagenes/tabla3_1.jpg">
 
 *Tabla III. Medición de corriente aplicando superposición*
 
