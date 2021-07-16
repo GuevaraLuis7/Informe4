@@ -77,6 +77,18 @@ Vx=∑Vx
 
 *Pasos a seguir*
 
+1. Iniciar el Tinkercad y seleccionar los materiales a utilizar.
+
+2. Preparar los materiales en el simulador: resistencia con cada valor y las fuentes de energía.
+
+3. Elaborar un circuito con las cinco resistencias con la forma indicada en la guía.
+
+4. Medir cada uno de los voltajes, corrientes y anotar los resultados.
+
+5. Analizar el circuito por el teorema de superposición para obtener los resultados analíticos de cada voltaje y de cada corriente.
+ 
+6. Completar las tablas respectivas con cada uno de los resultados obtenidos.
+
 *Procedimiento*
 
 <img src="Imagenes/fig1a.jpg">
@@ -96,6 +108,14 @@ Redibujando el Circuito para:
 <img src="Imagenes/circuitoB3.jpeg">
 
 ### Resultados
+
+<img src="Imagenes/tabla2.jpg">
+
+*Tabla II. Medición de voltaje aplicando superposición.*
+
+<img src="Imagenes/tabla3.jpg">
+
+*Tabla III. Medición de corriente aplicando superposición*
 
 *Porcentaje de error relativo entre los valores teóricos y los experimentales*
 
