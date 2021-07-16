@@ -119,6 +119,10 @@ Redibujando el Circuito para:
 
 *Porcentaje de error relativo entre los valores teóricos y los experimentales*
 
+<img src="Imagenes/error1.jpg">
+
+<img src="Imagenes/error2.jpg">
+
 *Análisis de los resultados*
 
 ### Video
